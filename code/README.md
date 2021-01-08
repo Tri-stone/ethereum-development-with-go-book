@@ -2,12 +2,14 @@
 
 > The code samples used in the book.
 
-## Running
+## Getting started
 
-```go
+Running an example:
+
+```bash
 go run account_balance.go
 ```
 
 ## License
 
-MIT
+[MIT](./LICENSE)

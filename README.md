@@ -133,14 +133,14 @@ If wanting to add a new translation, follow these instructions:
 
 4. Translate content
 
-5. Set `"root"` to `"./"` in `book.json`
+5. Set `"root"` to `"./"` in `book.json` if not already set
 
 ## Thanks
 
-Thanks to [qbig](https://github.com/qbig) and [gzuhlwang](https://github.com/gzuhlwang) for the Chinese translation.
+Thanks to [@qbig](https://github.com/qbig) and [@gzuhlwang](https://github.com/gzuhlwang) for the Chinese translation.
 
 And thanks to all the [contributors](https://github.com/miguelmota/ethereum-development-with-go-book/graphs/contributors) who have contributed to this guide book.
 
 ## License
 
-[CC0-1.0](./LICENSE.md)
+[CC0-1.0](./LICENSE)
